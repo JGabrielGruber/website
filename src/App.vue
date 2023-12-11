@@ -2,10 +2,10 @@
   <div class="bg-cover bg-top w-full" style="background-image: url('/EmBusca.jpg')">
     <div class="bg-neutral-content bg-opacity-20">
       <div class="sticky top-0 z-40 w-full flex-none lg:z-50">
-        <div class="max-w-6xl mx-auto">
+        <div class="lg:max-w-6xl ml-5 lg:mx-auto">
           <div class="py-4 border-b border-slate-900/10 lg:border-0 dark:border-slate-300/10">
             <div class="relative flex items-center">
-              <a class="mr-3 flex-none w-[2.0625rem] overflow-hidden md:w-auto " href="/">
+              <a class="mr-3 flex-none w-[2.0625rem] md:w-auto " href="/">
                 <span class="sr-only">José Gabriel Gruber home page</span>
                 <div class="flex items-center text-sm font-bold">
                   <img class="max-h-12" src="/jgabrielgruber.dev.ico.svg" alt="">
@@ -80,10 +80,10 @@
       <div class="min-h-screen flex lg:items-center lg:-mt-20 lg:max-w-6xl mx-auto text-neutral">
         <div class="h-full w-full">
           <div class="lg:flex w-full lg:text-left lg:justify-between">
-            <div class="max-w-sm lg:max-w-lg mb-5 mt-10 mx-auto lg:m-0">
+            <div class="max-w-sm lg:max-w-lg mx-auto mt-10 lg:m-0">
               <h1 class="leading-10 text-4xl font-bold text-center lg:text-left">Transforming digital landscapes with expertise and passion</h1>
             </div>
-            <div class="lg:max-w-lg backdrop-blur-sm bg-neutral/50 lg:bg-white/0 text-neutral-content lg:text-neutral p-5 lg:p-0 mt-[100%] lg:mt-0">
+            <div class="lg:max-w-lg backdrop-blur-sm bg-neutral/60 lg:bg-white/0 text-neutral-content lg:text-neutral p-5 lg:p-0 lg:mt-0 absolute bottom-0 lg:relative lg:bottom-auto">
               <h2 class="text-xl font-bold">Meet José Gabriel Gruber</h2>
               <p class="text-md font-semibold text-justify">the digital wizard with a down-to-earth touch. Blending technical know-how
                 with a passion for all things sustainable, he's on a mission to make a positive impact. Get ready to be
