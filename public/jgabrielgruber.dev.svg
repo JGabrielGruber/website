@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="646"
+   height="220"
+   viewBox="0 0 646 220"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <circle
+       style="opacity:0.99;fill:#e5e9f0;fill-opacity:1;stroke:none;stroke-width:8.74469;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path1"
+       cx="38.010586"
+       cy="136.58028"
+       r="38.010586" />
+    <circle
+       style="opacity:0.99;fill:#5e81ac;fill-opacity:1;stroke:none;stroke-width:8.74469;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="circle1"
+       cx="76.740952"
+       cy="83.419716"
+       r="38.010586" />
+    <circle
+       style="opacity:0.99;fill:#4c566a;fill-opacity:1;stroke:none;stroke-width:8.74469;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="circle2"
+       cx="115.16788"
+       cy="136.58028"
+       r="38.010586" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';text-align:center;letter-spacing:6px;text-anchor:middle;opacity:0.99;fill:#5e81ac;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="403.5119"
+       y="121.17867"
+       id="text3"><tspan
+         id="tspan3"
+         x="406.5119"
+         y="121.17867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';letter-spacing:6px;fill:#3b4252;fill-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';letter-spacing:6px;fill:#2e3440;fill-opacity:1"
+           id="tspan4">jgabrielgruber</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';letter-spacing:6px;fill:#5e81ac;fill-opacity:1"
+           id="tspan5">.dev</tspan></tspan></text>
+  </g>
+</svg>
