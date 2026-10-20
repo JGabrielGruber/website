@@ -1,0 +1,16 @@
+/* JGABRIELGRUBER.DEV tokens. The ONLY file allowed raw colour values. */
+:root{
+  --c-ink:#16201a;      /* neutral: near-black, green-tinted */
+  --c-mute:#5d6660;     /* neutral: secondary text (7.0:1 on paper) */
+  --c-line:#d9ddd8;     /* neutral: rules */
+  --c-paper:#f7f6f1;    /* neutral: page */
+  --c-white:#ffffff;    /* neutral */
+  --c-seed:#2f6b3a;     /* colour 1: field green (accent, links) */
+  --c-sky:#c9dccf;      /* colour 1 tint for diagrams/fills */
+  --sp-1:.5rem;--sp-2:1rem;--sp-3:1.5rem;--sp-4:2.5rem;--sp-5:4rem;--sp-6:6rem;
+  --font-sans:"IBM Plex Sans","Helvetica Neue",Arial,system-ui,sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,"DejaVu Sans Mono",monospace;
+  --font-serif:Georgia,"Times New Roman",serif;
+  --fs-s:.875rem;--fs-b:1.0625rem;--fs-l:1.375rem;--fs-xl:clamp(2.1rem,5vw,3.6rem);
+  --radius:2px;--maxw:72rem;
+}
