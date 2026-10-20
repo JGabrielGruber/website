@@ -1,4 +1,6 @@
-# Simple workflow for deploying static content to GitHub Pages
+# Deploy the static site to GitHub Pages.
+# Same path as before: this workflow uploads ./dist and deploy-pages publishes it.
+# The Vite/Bun build is gone; the job copies the plain HTML, CSS, and og.png into dist/.
 name: Deploy static content to Pages
 
 on:
@@ -30,12 +32,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Set up Bun
-        uses: oven-sh/setup-bun@v1
-      - name: Install dependencies
-        run: bun install
-      - name: Build
-        run: bun run build
+      - name: Assemble static site
+        run: |
+          mkdir -p dist
+          cp index.html tokens.css base.css style.css og.png dist/
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
