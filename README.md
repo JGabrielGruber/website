@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# jgabrielgruber.dev
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Static one-page site (Direction A, Dossier). Plain HTML and CSS at the repository root: `index.html`, `tokens.css`, `base.css`, `style.css`, and `og.png`.
 
-## Recommended IDE Setup
+GitHub Pages still publishes a `./dist` artifact from `.github/workflows/gh-pages.yml`. The workflow copies those static files into `dist/` and deploys them with `actions/deploy-pages`. There is no Vite or Bun build.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+`lint.sh` checks that raw hex colours stay in `tokens.css`.
